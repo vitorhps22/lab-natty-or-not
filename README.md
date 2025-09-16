@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: Natural ou Fake Natty? 💪🤖
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📖 Descrição
+Este projeto faz parte do desafio da DIO para explorar as IAs Generativas.  
+A ideia é usar ferramentas de IA para criar conteúdos que sejam realistas e depois refletir sobre o impacto delas no dia a dia.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🛠 Tecnologias Utilizadas
+- ChatGPT (para geração de texto e ideias criativas)
+- MidJourney (para geração de imagens realistas)
+- GitHub (para versionamento do projeto)
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🚀 Processo de Criação
+1. Fiz o fork do repositório base da DIO.
+2. Clonei para minha máquina usando o comando:
+   ```bash
+   git clone https://github.com/vitorhps22/lab-natty-or-not.git
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
